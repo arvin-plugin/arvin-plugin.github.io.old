@@ -1,2 +1,2 @@
 # arvin-plugin.github.io
-Static Web Product information
+Landing Page Products
